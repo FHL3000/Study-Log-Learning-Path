@@ -1,5 +1,3 @@
-# Study-Log-Learning-Path
-
 # **IT Study and Home Lab Log**
 
 Welcome to my study and home lab repository! This repository documents my journey of learning and practicing IT support skills, focusing on troubleshooting, system administration, network monitoring, and security. It includes detailed logs of hours studied, topics covered, and hands-on projects completed.
@@ -48,7 +46,7 @@ Study-Log/
 
 ## **How to Use This Repository**
 This repository is designed to track my learning progress and showcase hands-on experience in IT support. Employers can:
-- **Review Logs:** Explore daily and weekly study sessions in the [Logs folder](Logs/).  
+- **Review Logs:** Explore daily and weekly study sessions in the [Logs folder](logs/).  
 - **Explore Projects:** Dive into detailed documentation in the [Projects folder](Projects/).  
 - **Understand Skills:** View summaries and outcomes to assess practical skills.
 
