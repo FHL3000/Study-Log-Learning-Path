@@ -2,6 +2,10 @@
 
 Welcome to my study and home lab repository! This repository documents my journey of learning and practicing IT support skills, focusing on troubleshooting, system administration, network monitoring, and security. It includes detailed logs of hours studied, topics covered, and hands-on projects completed.
 
+Please note that the logs in this repository do not represent the entirety of my knowledge or the total time I have spent practicing concepts. I have been actively studying and building my foundational IT skills, starting with hardware, since October 2024. Additionally, these logs do not account for supplemental learning activities such as watching videos, reading articles, or exploring other resources outside my core studies.
+
+This repository serves as a structured reflection of my progress and hands-on experiences, aligning with my goals of mastering IT support and system administration.
+
 ## **Overview**
 This repository is organized into:
 - **Study Logs:** Track daily and weekly study sessions, including time spent, topics studied, tools used, and outcomes achieved.  
