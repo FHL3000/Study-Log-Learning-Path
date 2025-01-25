@@ -1,0 +1,4 @@
+Jail: sshd
+Max Retries: 3
+Ban Time: 600 seconds
+Log Path: /var/log/auth.log
