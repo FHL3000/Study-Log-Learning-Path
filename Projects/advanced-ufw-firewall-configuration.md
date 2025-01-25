@@ -53,6 +53,9 @@ This project focuses on configuring and enhancing the security of a network usin
 2. Update the project with additional logs, configurations, and screenshots.
 3. Test and refine the firewall rules.
 
+## Related Projects
+- [Home Lab Setup Repository](https://github.com/username/homelab-project)
+
 ---
 
 ## **Contact**
