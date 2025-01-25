@@ -54,7 +54,7 @@ This project focuses on configuring and enhancing the security of a network usin
 3. Test and refine the firewall rules.
 
 ## Related Projects
-- [Home Lab Setup Repository](https://github.com/username/homelab-project)
+- [Home Lab Setup Repository](https://github.com/FHL3000/Study-Log-Learning-Path/tree/main/Projects)
 
 ---
 
