@@ -108,4 +108,4 @@ This markdown outlines the steps taken to harden SSH access for the Raspberry Pi
 ---
 
 ## **Conclusion**
-These SSH hardening steps significantly improve security for the Raspberry Pi, mitigating common vulnerabilities like brute-force attacks and unauthorized access. Key-based authentication, Fail2Ban, and subnet restrictions ensure a robust defense for remote access.
+These SSH hardening steps significantly improve security for my Raspberry Pi, mitigating common vulnerabilities like brute-force attacks and unauthorized access. Key-based authentication, Fail2Ban, and subnet restrictions ensure a robust defense for remote access.
