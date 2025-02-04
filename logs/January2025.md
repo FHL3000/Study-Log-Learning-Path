@@ -50,12 +50,17 @@ cabling, and crimping cables, reviewed previous notes on networking essentials a
 ### **2025-01-27**
 - **Networking:**
   - (3 hrs)  CompTIA A+ Core 1 (220-1101) Course by Prof. Messer and supplemental reading:Studied and recorded notes on peripherial cables, SATA, SCSI, PATA, and video cables.
-
-
  
-
-
-
+### **2025-01-29**
+- **Hardware:**
+  - (3 hrs)  CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading:Studied and recorded notes on monitor technologies, LCDs, graphic cards, resolution and aspect ratios, projectors, and troubloshooting
+ 
+### **2025-01-31**
+- **Networking:**
+  - (3 hrs)  CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading:Studied and recorded notes on Dynamic IP addressing, IPv6 vs IPv4, port numbers, TCP/IP, 
+  - (30 mins CompTIA A+ Exam guide textbook by Mike Meyers reading: Read about 802 Standards: 802.11, 802.3, 802.1Q. 802.1x, 802.3ax & 802.at
+ 
+ 
 ---
 
 ## **Summary**
