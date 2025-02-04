@@ -1,3 +1,7 @@
+# **February 2025 Study Log** 
+
+## **Daily Log**
+
 ### **2025-01-26**
 - **Networking:**
   - (3 hrs) Google IT support fundamentals course: Topics- Digital logic, computer architechture, troubleshooting best practices, customer service
