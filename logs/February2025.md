@@ -65,3 +65,9 @@
 - **Networking:**
   - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied network troubleshooting methodologies and diagnostic tools.
   - (15 mins) Practiced using `ping`, `traceroute`, and `netstat` on a Linux machine.
+ 
+### **2025-02-12**
+- **Networking:**
+  - (2 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied DHCP, IPv6, Port numbers, TCP, UDP, and ICMP
+  - The Bits and Bytes of Computer Networking (Google IT course): Reviewed video lessons and notes on TCP/IP model, networking cables and tools, server and client relationship
+  - (2 hrs) Hands-on Networking: Downloaded and configured proxmox uso ISO image USB drive, Installed windows 11 virtual machine.
