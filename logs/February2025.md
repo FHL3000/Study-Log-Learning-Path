@@ -71,3 +71,11 @@
   - (2 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied DHCP, IPv6, Port numbers, TCP, UDP, and ICMP
   - The Bits and Bytes of Computer Networking (Google IT course): Reviewed video lessons and notes on TCP/IP model, networking cables and tools, server and client relationship
   - (2 hrs) Hands-on Networking: Downloaded and configured proxmox uso ISO image USB drive, Installed windows 11 virtual machine.
+ 
+### **2025-02-13**
+- **Networking:**
+  - (2 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied DNS, Router configuration, VLANs, and network troubleshooting
+  - The Bits and Bytes of Computer Networking (Google IT course): Reviewed video lessons and notes on Ethernet standards and frames, MAC addresses, unicast, multicast, and brodcast.
+  - (30 mins) Hands-on Networking: Configured Proxmox VM backup strategy, Optimized VM performance through CPU optimizations and enabling TRIM for SSDs
+ 
+  
