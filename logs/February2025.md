@@ -1,81 +1,288 @@
-# **February 2025 Study Log** 
+# **February 2025 IT Study Log**
 
-## **Daily Log**
+## **Overview**
+This document chronicles my IT learning journey throughout February 2025, covering theoretical coursework and hands-on practical configurations across networking, hardware, virtualization, and security domains.
 
-### **2025-01-26**
-- **Networking:**
-  - (3 hrs) Google IT support fundamentals course: Topics- Digital logic, computer architechture, troubleshooting best practices, customer service
-  - (30 mins CompTIA A+ Exam guide textbook by Mike Meyers reading: Read about Installing and backing up OSes, Choosing and upgrading/Installing a CPU, choosing and installing RAM
-  - (3 hrs)  **Hands-on network configuration:** Hands-on server building: Upgrading Dell Poweredge server components- Added 32 GB ECC UDIMM, 2x 1TB SSDs, Intel Xeon v6 processor with thermal paste application, Ensured proper installations in the system setup.
+## **Daily Learning Activities**
 
-### **2025-02-02**
-- **Networking:**
-  - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied network protocols, TCP vs. UDP, and DHCP.
-  - (15 mins) CompTIA A+ Exam guide textbook by Mike Meyers reading: Read about DNS troubleshooting and resolution.
+### **February 1, 2025** *(6.5 hours)*
+- **Theory:**
+  - Google IT support fundamentals course (3 hours):
+    - Digital logic
+    - Computer architecture
+    - Troubleshooting best practices
+    - Customer service principles
+  - CompTIA A+ Exam guide by Mike Meyers (30 minutes):
+    - OS installation and backup procedures
+    - CPU selection and installation
+    - RAM selection and installation
+- **Hands-on:**
+  - Dell PowerEdge R230 hardware upgrades (3 hours):
+    - Installed Intel Xeon E3-1270 V6 processor with thermal paste application
+    - Added 32GB ECC UDIMM RAM
+    - Installed 2x 1TB SSDs
+    - Verified proper component installation in system setup
 
-### **2025-02-03**
-- **Networking:**
-  - (3 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied subnetting, IPv4/IPv6 addressing, and NAT.
-  - (1 hr) Hands-on: Practiced subnetting calculations and assigned static IP addresses to home lab devices.
+### **February 2, 2025** *(1.25 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Network protocols
+    - TCP vs. UDP comparison
+    - DHCP operation
+  - CompTIA A+ Exam guide by Mike Meyers (15 minutes):
+    - DNS troubleshooting
+    - DNS resolution process
 
-### **2025-02-04**
-- **Networking:**
-  - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Reviewed MAC addressing, ARP, and switch operations.
-- **Hardware:**
-  - (15 mins) Total Hardware Quiz: Memory types, cache levels, and CPU sockets.
-  - (30 mins) CompTIA A+ Exam guide textbook by Mike Meyers reading: Reviewed motherboard chipsets and BIOS settings.
+### **February 3, 2025** *(4 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (3 hours):
+    - Subnetting techniques
+    - IPv4/IPv6 addressing
+    - NAT configuration
+- **Hands-on:**
+  - Practiced subnetting calculations (1 hour)
+  - Assigned static IP addresses to home lab devices
 
-### **2025-02-05**
-- **Networking:**
-  - (3 hrs) Hands-on network configuration:  
-    - Configured VLANs and verified segmentation on a managed switch.  
-    - Set up static routing between VLANs and tested connectivity.  
-    - Verified correct ARP table entries and routing tables.
+### **February 4, 2025** *(1.75 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - MAC addressing
+    - ARP protocol
+    - Switch operations
+  - Total Hardware Quiz (15 minutes):
+    - Memory types
+    - Cache levels
+    - CPU sockets
+  - CompTIA A+ Exam guide by Mike Meyers (30 minutes):
+    - Motherboard chipsets
+    - BIOS settings and configuration
 
-### **2025-02-06**
-- **Networking:**
-  - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Reviewed structured cabling, cable categories, and crimping techniques.
-- **Hardware:**
-  - (30 mins) Hands-on: Verified correct installation of RAM modules in dual-channel mode.
-  - (15 mins) Total Hardware Quiz: SSD vs. HDD, RAID configurations, and thermal management.
+### **February 5, 2025** *(3 hours)*
+- **Hands-on:**
+  - Network and VLAN configuration (3 hours):
+    - Configured VLANs and verified segmentation on managed switch
+    - Set up static routing between VLANs and tested connectivity
+    - Verified correct ARP table entries and routing tables
+    - Labeled and identified devices in the network
+    - Configured Asus ExpertWifi system as an access point
+    - Planned VLAN segmentation for IoT devices, personal devices, and home lab
+    - Started speed test benchmarking (pre-optimization tests)
 
-### **2025-02-07**
-- **Networking:**
-  - (3 hrs) Hands-on:  
-    - Configured a basic firewall rule set in UFW.  
-    - Allowed SSH, limited ICMP, and logged unauthorized access attempts.  
-    - Tested firewall rules using `sudo ufw status numbered` and `ping`.  
-  - (1 hr) CompTIA A+ Exam guide textbook by Mike Meyers reading: Read about security best practices for small networks.
+### **February 6, 2025** *(1.75 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Structured cabling
+    - Cable categories
+    - Crimping techniques
+- **Hands-on:**
+  - Verified correct installation of RAM modules in dual-channel mode (30 minutes)
+  - Total Hardware Quiz (15 minutes):
+    - SSD vs. HDD comparison
+    - RAID configurations
+    - Thermal management best practices
 
-### **2025-02-08**
-- **Networking:**
-  - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied router configurations, DHCP settings, and QoS.
-- **Hardware:**
-  - (30 mins) Total Hardware Quiz: Expansion slots, GPU architecture, and cooling solutions.
+### **February 7, 2025** *(4 hours)*
+- **Theory:**
+  - CompTIA A+ Exam guide by Mike Meyers (1 hour):
+    - Security best practices for small networks
+- **Hands-on:**
+  - Firewall configuration (3 hours):
+    - Configured basic firewall rule set in UFW
+    - Allowed SSH, limited ICMP, and logged unauthorized access attempts
+    - Tested firewall rules using `sudo ufw status numbered` and `ping`
 
-### **2025-02-09**
-- **Networking:**
-  - (3 hrs) Hands-on:  
-    - Configured and tested port security on the Aruba managed switch.  
-    - Limited MAC addresses per port and verified security logs.  
-    - Set up an access control list (ACL) to restrict traffic flow.  
-  - (30 mins) CompTIA A+ Exam guide textbook by Mike Meyers reading: Reviewed Ethernet frame structure and network troubleshooting tools.
+### **February 8, 2025** *(1.5 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Router configurations
+    - DHCP settings
+    - Quality of Service (QoS) fundamentals
+  - Total Hardware Quiz (30 minutes):
+    - Expansion slots
+    - GPU architecture
+    - Cooling solutions
 
-### **2025-02-10**
-- **Networking:**
-  - (1 hr) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied network troubleshooting methodologies and diagnostic tools.
-  - (15 mins) Practiced using `ping`, `traceroute`, and `netstat` on a Linux machine.
- 
-### **2025-02-12**
-- **Networking:**
-  - (2 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied DHCP, IPv6, Port numbers, TCP, UDP, and ICMP
-  - The Bits and Bytes of Computer Networking (Google IT course): Reviewed video lessons and notes on TCP/IP model, networking cables and tools, server and client relationship
-  - (2 hrs) Hands-on Networking: Downloaded and configured proxmox uso ISO image USB drive, Installed windows 11 virtual machine.
- 
-### **2025-02-13**
-- **Networking:**
-  - (2 hrs) CompTIA A+ Core 1 (220-1101) Course by Mike Meyers and supplemental reading: Studied DNS, Router configuration, VLANs, and network troubleshooting
-  - The Bits and Bytes of Computer Networking (Google IT course): Reviewed video lessons and notes on Ethernet standards and frames, MAC addresses, unicast, multicast, and brodcast.
-  - (30 mins) Hands-on Networking: Configured Proxmox VM backup strategy, Optimized VM performance through CPU optimizations and enabling TRIM for SSDs
- 
-  
+### **February 9, 2025** *(3.5 hours)*
+- **Theory:**
+  - CompTIA A+ Exam guide by Mike Meyers (30 minutes):
+    - Ethernet frame structure
+    - Network troubleshooting tools
+- **Hands-on:**
+  - Switch security configuration (3 hours):
+    - Configured and tested port security on the Aruba managed switch
+    - Set up an access control list (ACL) to restrict traffic flow
+    - Verified security logs for unauthorized access attempts
+
+### **February 10, 2025** *(1.25 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Network troubleshooting methodologies
+    - Diagnostic tools
+- **Hands-on:**
+  - Practiced using network diagnostic tools (15 minutes):
+    - `ping` for connectivity testing
+    - `traceroute` for path analysis
+    - `netstat` for connection monitoring on Linux
+
+### **February 11, 2025** *(2 hours)*
+- **Hands-on:**
+  - Patch Panel & Structured Cabling (2 hours):
+    - Created custom Ethernet cables with crimped RJ-45 connectors
+    - Connected and tested patch panel wiring
+    - Routed power and networking cables separately for organization
+
+### **February 13, 2025** *(4.5 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (2 hours):
+    - DNS configuration
+    - Router configuration
+    - VLANs implementation
+    - Network troubleshooting
+  - Google IT course "The Bits and Bytes of Computer Networking" (2 hours):
+    - Ethernet standards and frames
+    - MAC addresses
+    - Unicast, multicast, and broadcast
+- **Hands-on:**
+  - Proxmox VE optimization (30 minutes):
+    - Configured VM backup strategy
+    - Optimized VM performance through CPU optimizations
+    - Enabled TRIM for SSDs
+
+### **February 14, 2025** *(2 hours)*
+- **Hands-on:**
+  - Proxmox VE installation (2 hours):
+    - Installed Proxmox VE as primary hypervisor on Dell PowerEdge R230
+    - Verified installation and initial web GUI access
+    - Planned VM deployments for testing different operating systems
+
+### **February 16, 2025** *(1.5 hours)*
+- **Hands-on:**
+  - Raspberry Pi configurations (1.5 hours):
+    - Planned repurposing to offload services from Dell PowerEdge R230
+    - Set up initial configurations for future automation
+
+### **February 18, 2025** *(2 hours)*
+- **Hands-on:**
+  - Created Windows 11 virtual machine on Proxmox (2 hours)
+  - Configured resource allocation for optimal performance
+  - Tested VM functionality and network connectivity
+
+### **February 19, 2025** *(1 hour)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Router configurations
+    - DHCP settings
+    - Quality of Service (QoS) fundamentals
+
+### **February 20, 2025** *(1 hour)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (1 hour):
+    - Structured cabling standards
+    - Cable categories and specifications
+    - Proper crimping techniques
+
+### **February 21, 2025** *(2 hours)*
+- **Hands-on:**
+  - Security & Firewall testing (2 hours):
+    - Continued UFW firewall configuration on Raspberry Pi
+    - Installed tcpdump for network monitoring
+    - Planned ICMP rate-limiting testing
+
+### **February 22, 2025** *(2 hours)*
+- **Hands-on:**
+  - Network segmentation implementation (2 hours):
+    - Implemented network segmentation for improved security
+    - Configured firewall rules to isolate sensitive systems
+    - Tested inter-VLAN communication restrictions
+
+### **February 24, 2025** *(2.5 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Professor Messer (2 hours):
+    - Common/well-known ports including FTP, SSH, RDP, LDAP, etc.
+  - Google IT course "The Bits and Bytes of Computer Networking" (30 minutes):
+    - Ethernet standards and frames
+    - MAC addresses
+    - Unicast, multicast, and broadcast communication
+
+### **February 25, 2025** *(4 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (2 hours):
+    - DHCP operation and configuration
+    - IPv6 addressing and transition mechanisms
+    - Port numbers
+    - TCP, UDP, and ICMP protocols
+  - Google IT course "The Bits and Bytes of Computer Networking" (2 hours):
+    - TCP/IP model
+    - Networking cables and tools
+    - Server and client relationship
+
+### **February 26, 2025** *(2 hours)*
+- **Theory:**
+  - CompTIA A+ Core 1 (220-1101) Course by Mike Meyers (2 hours):
+    - DNS configuration and troubleshooting
+    - Router configuration best practices
+    - VLAN implementation
+    - Network troubleshooting methodologies
+
+### **February 28, 2025** *(3 hours)*
+- **Theory:**
+  - Comprehensive review of CompTIA A+ networking objectives (2 hours)
+  - Practice exam covering networking fundamentals (1 hour)
+  - Identified knowledge gaps for future study
+
+### **February 29, 2025** *(2 hours)*
+- **Review and Planning:**
+  - Consolidated notes from the month's study (1 hour)
+  - Created study plan focusing on (1 hour):
+    - Advanced VLAN configuration techniques
+    - Inter-VLAN routing optimization
+    - Hardware troubleshooting methodologies
+    - Network diagnostic procedures
+
+## **Monthly Summary**
+
+### **Total Hours Studied: 60.25 hours**
+- **Theoretical Study**: 32.25 hours
+- **Hands-on Practice**: 28 hours
+
+### **Learning Accomplishments**
+1. **Hardware Configuration**
+   - Successfully upgraded Dell PowerEdge R230 server with new processor, memory, and storage
+   - Verified proper installation and operation of all components
+   - Established solid understanding of server hardware architectures
+
+2. **Virtualization Platform**
+   - Deployed Proxmox VE as primary hypervisor
+   - Created and optimized virtual machines
+   - Implemented VM backup strategies and performance optimizations
+
+3. **Networking**
+   - Configured VLANs for network segmentation
+   - Implemented proper security measures including ACLs
+   - Gained proficiency in network diagnostics and troubleshooting
+   - Designed structured cabling system with patch panel
+
+4. **Security Implementation**
+   - Established firewall rules and security policies
+   - Configured network traffic monitoring
+   - Implemented network isolation for sensitive systems
+
+5. **Certification Progress**
+   - Completed approximately 25% of CompTIA A+ Core 1 course material
+   - Reinforced learning with hands-on application of concepts
+   - Identified areas for focused study in March
+
+### **Next Steps for March**
+- Focus on advanced networking configurations:
+  - Complex VLAN topologies and trunking
+  - Dynamic routing protocols (OSPF, BGP)
+  - Deep packet analysis with Wireshark
+- Develop hardware troubleshooting skills:
+  - Component-level diagnostics
+  - System performance analysis
+  - BIOS/UEFI configuration optimization
+- Enhance network troubleshooting capabilities:
+  - Physical layer diagnostics
+  - End-to-end connectivity analysis
+  - Performance bottleneck identification
+- Continue practical implementation of CompTIA A+ concepts
